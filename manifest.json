@@ -1,6 +1,6 @@
 {
-  "name": "Standard Ebooks Discovery App",
-  "short_name": "SE Discover",
+  "name": "Random Book",
+  "short_name": "Random Book",
   "description": "Discover random beautiful books from the Standard Ebooks catalog",
   "start_url": "./index.html",
   "display": "standalone",
