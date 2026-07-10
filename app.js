@@ -1,5 +1,5 @@
 /**
- * Random Standard Ebooks Cover Generator
+ * Random Book
  * Client-side script to load catalog and manage book presentation
  */
 
