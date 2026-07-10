@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Random Book</title>
+  <meta name="description" content="Discover random beautiful books from the Standard Ebooks collection with cover art and direct reading links.">
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23e5b842'%3E%3Cpath d='M21 2.859l-8.5 1.684-8.5-1.684v14.641l8.5 1.684 8.5-1.684zm-9 14.281l-7-1.385v-11.458l7 1.385zm8-1.385l-7 1.385v-11.458l7-1.385z'/%3E%3C/svg%3E">
+  
+  <!-- Web App Manifest (PWA) -->
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#e5b842">
+  
+  <!-- SEO & Open Graph -->
+  <meta property="og:title" content="Random Standard Ebook Cover Generator">
+  <meta property="og:description" content="Discover a random beautiful book from the Standard Ebooks collection with cover art and download/reading links.">
+  <meta property="og:type" content="website">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Outfit:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Animated Background Canvas/Blobs -->
+  <div class="bg-glow">
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="blob blob-3"></div>
+  </div>
+
+  <div class="app-container">
+    <header class="app-header">
+      <h1 class="logo-text">Random Book</h1>
+      <p class="subtitle">Standard Ebooks</p>
+    </header>
+
+    <main class="main-content">
+      <!-- Main Glassmorphic Book Card -->
+      <div class="book-card" id="book-card">
+        <!-- Left Side: Cover Art Container -->
+        <div class="cover-section">
+          <div class="cover-wrapper" id="cover-wrapper">
+            <!-- Low-res thumbnail for blurred placeholder -->
+            <img id="cover-blur" class="cover-img blur-placeholder" src="" alt="Loading cover...">
+            <!-- High-res cover image -->
+            <img id="cover-img" class="cover-img main-cover" src="" alt="Book Cover">
+            <!-- Loading Indicator -->
+            <div class="loading-overlay" id="loading-overlay">
+              <div class="spinner"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right Side: Details and Actions -->
+        <div class="details-section">
+          <div class="meta-container">
+            <span class="discover-tag">Now Discovering</span>
+            <h2 class="book-title" id="book-title">Loading Book...</h2>
+            <div class="author-label">by</div>
+            <h3 class="book-author" id="book-author">...</h3>
+            <div class="translator-info" id="translator-info" style="display: none;">
+              Translated by <span id="book-translator">...</span>
+            </div>
+          </div>
+
+          <div class="actions-container">
+            <a href="#" id="read-btn" class="btn btn-primary" target="_blank" rel="noopener">
+              <span>Read Book</span>
+              <svg class="icon-arrow" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="5" y1="12" x2="19" y2="12"></line>
+                <polyline points="12 5 19 12 12 19"></polyline>
+              </svg>
+            </a>
+            
+            <button id="next-btn" class="btn btn-secondary">
+              <span>Next Book</span>
+              <svg class="icon-refresh" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"></path>
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <footer class="app-footer">
+      <p>All books sourced from <a href="https://standardebooks.org" target="_blank" rel="noopener">Standard Ebooks</a>. Free of copyright restrictions.</p>
+    </footer>
+  </div>
+
+  <!-- App Script -->
+  <script src="app.js"></script>
+</body>
+</html>
