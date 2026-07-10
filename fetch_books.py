@@ -4,7 +4,7 @@ import re
 import time
 import sys
 
-
+print("VERSION 2", file=sys.stderr)
 def fetch_all_repos():
     repos = []
     page = 1
