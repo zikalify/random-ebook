@@ -527,5 +527,6 @@ body {
   .btn {
     width: 100%;
     padding: 0.85rem 1.2rem;
+    flex: none; /* ⚠️ FIXED: Strips desktop flex-basis so buttons don't get super tall */
   }
 }
