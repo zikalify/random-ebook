@@ -153,8 +153,11 @@ body {
   border: 1px solid var(--card-border);
   border-radius: 24px;
   box-shadow: var(--shadow-lg);
+  
+  /* FIXED: Rigid grid columns to prevent layout wiggles when text shifts */
   display: grid;
-  grid-template-columns: 42% 58%;
+  grid-template-columns: minmax(0, 42%) minmax(0, 58%);
+  
   overflow: hidden;
   transition: box-shadow 0.5s ease, border-color 0.5s ease;
   animation: fadeInUp 0.9s cubic-bezier(0.16, 1, 0.3, 1) forwards;
@@ -174,13 +177,21 @@ body {
   align-items: center;
   position: relative;
   border-right: 1px solid var(--card-border);
+  
+  /* FIXED: Locks structural box dimensions from shifting */
+  width: 100%;
+  height: 100%;
 }
 
 .cover-wrapper {
   position: relative;
   width: 100%;
   max-width: 280px;
+  
+  /* FIXED: Enforces exact 2:3 container height before image loading payload arrives */
   aspect-ratio: 2 / 3;
+  height: auto;
+  
   border-radius: 12px;
   box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
   overflow: hidden;
@@ -527,6 +538,6 @@ body {
   .btn {
     width: 100%;
     padding: 0.85rem 1.2rem;
-    flex: none; /* ⚠️ FIXED: Strips desktop flex-basis so buttons don't get super tall */
+    flex: none; /* FIXED: Strips desktop flex-basis values so buttons don't blow up vertically */
   }
 }
