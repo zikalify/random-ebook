@@ -319,9 +319,9 @@
     "title": "Lyrical Ballads",
     "author": "William Wordsworth and Samuel Taylor Coleridge",
     "translators": null,
-    "url": "https://standardebooks.org/ebooks/william-wordsworth/samuel-taylor-coleridge/lyrical-ballads",
-    "cover_url": "https://standardebooks.org/ebooks/william-wordsworth/samuel-taylor-coleridge/lyrical-ballads/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/william-wordsworth/samuel-taylor-coleridge/lyrical-ballads/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/william-wordsworth_samuel-taylor-coleridge/lyrical-ballads",
+    "cover_url": "https://standardebooks.org/ebooks/william-wordsworth_samuel-taylor-coleridge/lyrical-ballads/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/william-wordsworth_samuel-taylor-coleridge/lyrical-ballads/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "w-w-jacobs_the-lady-of-the-barge",
@@ -1084,9 +1084,9 @@
     "title": "The Communist Manifesto",
     "author": "karl-marx_friedrich-engels",
     "translators": "samuel-moore",
-    "url": "https://standardebooks.org/ebooks/karl-marx/friedrich-engels/the-communist-manifesto/samuel-moore",
-    "cover_url": "https://standardebooks.org/ebooks/karl-marx/friedrich-engels/the-communist-manifesto/samuel-moore/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/karl-marx/friedrich-engels/the-communist-manifesto/samuel-moore/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/karl-marx_friedrich-engels/the-communist-manifesto/samuel-moore",
+    "cover_url": "https://standardebooks.org/ebooks/karl-marx_friedrich-engels/the-communist-manifesto/samuel-moore/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/karl-marx_friedrich-engels/the-communist-manifesto/samuel-moore/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "h-g-wells_the-island-of-doctor-moreau",
@@ -1318,9 +1318,9 @@
     "title": "The Sketch-Book of Geoffrey Crayon, Gent.",
     "author": "Washington Irving",
     "translators": null,
-    "url": "https://standardebooks.org/ebooks/washington-irving/the-sketchbook-of-geoffrey-crayon-gent",
-    "cover_url": "https://standardebooks.org/ebooks/washington-irving/the-sketchbook-of-geoffrey-crayon-gent/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/washington-irving/the-sketchbook-of-geoffrey-crayon-gent/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/washington-irving/the-sketch-book-of-geoffrey-crayon-gent",
+    "cover_url": "https://standardebooks.org/ebooks/washington-irving/the-sketch-book-of-geoffrey-crayon-gent/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/washington-irving/the-sketch-book-of-geoffrey-crayon-gent/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "gertrude-stein_three-lives",
@@ -1408,9 +1408,9 @@
     "title": "The Enchanted Castle",
     "author": "E. Nesbit. Illustrated by H. R. Millar",
     "translators": null,
-    "url": "https://standardebooks.org/ebooks/e-nesbit/the-enchanted-castle",
-    "cover_url": "https://standardebooks.org/ebooks/e-nesbit/the-enchanted-castle/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/e-nesbit/the-enchanted-castle/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/e-nesbit/the-enchanted-castle/h-r-millar",
+    "cover_url": "https://standardebooks.org/ebooks/e-nesbit/the-enchanted-castle/h-r-millar/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/e-nesbit/the-enchanted-castle/h-r-millar/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "kahlil-gibran_the-madman",
@@ -1750,18 +1750,18 @@
     "title": "The Little Demon",
     "author": "Fyodor Sologub",
     "translators": "John Cournos and Richard Aldington",
-    "url": "https://standardebooks.org/ebooks/fyodor-sologub/the-little-demon/john-cournos/richard-aldington",
-    "cover_url": "https://standardebooks.org/ebooks/fyodor-sologub/the-little-demon/john-cournos/richard-aldington/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/fyodor-sologub/the-little-demon/john-cournos/richard-aldington/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/fyodor-sologub/the-little-demon/john-cournos",
+    "cover_url": "https://standardebooks.org/ebooks/fyodor-sologub/the-little-demon/john-cournos/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/fyodor-sologub/the-little-demon/john-cournos/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "benjamin-disraeli_sybil",
     "title": "Sibyl",
     "author": "Benjamin Disraeli",
     "translators": null,
-    "url": "https://standardebooks.org/ebooks/benjamin-disraeli/sybil",
-    "cover_url": "https://standardebooks.org/ebooks/benjamin-disraeli/sybil/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/benjamin-disraeli/sybil/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/benjamin-disraeli/sibyl",
+    "cover_url": "https://standardebooks.org/ebooks/benjamin-disraeli/sibyl/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/benjamin-disraeli/sibyl/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "camille-flammarion_omega_j-b-walker",
@@ -1867,9 +1867,9 @@
     "title": "Nicomachean Ethics",
     "author": "Aristotle",
     "translators": "F. H. Peters",
-    "url": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters",
-    "cover_url": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/aristotle/the-nicomachean-ethics/f-h-peters",
+    "cover_url": "https://standardebooks.org/ebooks/aristotle/the-nicomachean-ethics/f-h-peters/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/aristotle/the-nicomachean-ethics/f-h-peters/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "jane-austen_persuasion",
@@ -2263,9 +2263,9 @@
     "title": "Commentaries on the Gallic War",
     "author": "Julius Caesar",
     "translators": "W. A. McDevitte and W. S. Bohn",
-    "url": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte/w-s-bohn",
-    "cover_url": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte/w-s-bohn/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte/w-s-bohn/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn",
+    "cover_url": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/julius-caesar/commentaries-on-the-gallic-war/w-a-mcdevitte_w-s-bohn/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "maurice-leblanc_the-eight-strokes-of-the-clock_alexander-teixeira-de-mattos",
@@ -3478,9 +3478,9 @@
     "title": "War and Peace",
     "author": "Leo Tolstoy",
     "translators": "Louise and Aylmer Maude",
-    "url": "https://standardebooks.org/ebooks/leo-tolstoy/war-and-peace/louise-maude/aylmer-maude",
-    "cover_url": "https://standardebooks.org/ebooks/leo-tolstoy/war-and-peace/louise-maude/aylmer-maude/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/leo-tolstoy/war-and-peace/louise-maude/aylmer-maude/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/leo-tolstoy/war-and-peace/louise-maude_aylmer-maude",
+    "cover_url": "https://standardebooks.org/ebooks/leo-tolstoy/war-and-peace/louise-maude_aylmer-maude/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/leo-tolstoy/war-and-peace/louise-maude_aylmer-maude/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "leonid-andreyev_satans-diary_herman-bernstein",
@@ -3568,9 +3568,9 @@
     "title": "She",
     "author": "H. Rider Haggard",
     "translators": null,
-    "url": "https://standardebooks.org/ebooks/h-rider-haggard/she",
-    "cover_url": "https://standardebooks.org/ebooks/h-rider-haggard/she/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/h-rider-haggard/she/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/h-rider-haggard/she/maurice-greiffenhagen_charles-h-m-kerr",
+    "cover_url": "https://standardebooks.org/ebooks/h-rider-haggard/she/maurice-greiffenhagen_charles-h-m-kerr/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/h-rider-haggard/she/maurice-greiffenhagen_charles-h-m-kerr/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "lytton-strachey_queen-victoria",
@@ -3685,9 +3685,9 @@
     "title": "R.U.R.",
     "author": "Karel Čapek",
     "translators": "Paul Selver and Nigel Playfair",
-    "url": "https://standardebooks.org/ebooks/karel-capek/r-u-r/paul-selver/nigel-playfair",
-    "cover_url": "https://standardebooks.org/ebooks/karel-capek/r-u-r/paul-selver/nigel-playfair/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/karel-capek/r-u-r/paul-selver/nigel-playfair/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/karel-capek/r-u-r/paul-selver_nigel-playfair",
+    "cover_url": "https://standardebooks.org/ebooks/karel-capek/r-u-r/paul-selver_nigel-playfair/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/karel-capek/r-u-r/paul-selver_nigel-playfair/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "leonid-andreyev_he-who-gets-slapped_gregory-zilboorg",
@@ -4261,9 +4261,9 @@
     "title": "Clarissa Harlowe",
     "author": "Samuel Richardson",
     "translators": null,
-    "url": "https://standardebooks.org/ebooks/samuel-richardson/clarissa",
-    "cover_url": "https://standardebooks.org/ebooks/samuel-richardson/clarissa/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/samuel-richardson/clarissa/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/samuel-richardson/clarissa-harlowe",
+    "cover_url": "https://standardebooks.org/ebooks/samuel-richardson/clarissa-harlowe/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/samuel-richardson/clarissa-harlowe/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "eleanor-h-porter_pollyanna-grows-up",
@@ -4603,9 +4603,9 @@
     "title": "The Federalist Papers",
     "author": "Alexander Hamilton, John Jay, and James Madison",
     "translators": null,
-    "url": "https://standardebooks.org/ebooks/alexander-hamilton/john-jay/james-madison/the-federalist-papers",
-    "cover_url": "https://standardebooks.org/ebooks/alexander-hamilton/john-jay/james-madison/the-federalist-papers/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/alexander-hamilton/john-jay/james-madison/the-federalist-papers/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/alexander-hamilton_john-jay_james-madison/the-federalist-papers",
+    "cover_url": "https://standardebooks.org/ebooks/alexander-hamilton_john-jay_james-madison/the-federalist-papers/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/alexander-hamilton_john-jay_james-madison/the-federalist-papers/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "william-f-cody_the-life-of-buffalo-bill",
@@ -4711,9 +4711,9 @@
     "title": "Hedda Gabler",
     "author": "Henrik Ibsen",
     "translators": "Edmund Gosse and William Archer",
-    "url": "https://standardebooks.org/ebooks/henrik-ibsen/hedda-gabler/edmund-gosse/william-archer",
-    "cover_url": "https://standardebooks.org/ebooks/henrik-ibsen/hedda-gabler/edmund-gosse/william-archer/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/henrik-ibsen/hedda-gabler/edmund-gosse/william-archer/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/henrik-ibsen/hedda-gabler/edmund-gosse_william-archer",
+    "cover_url": "https://standardebooks.org/ebooks/henrik-ibsen/hedda-gabler/edmund-gosse_william-archer/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/henrik-ibsen/hedda-gabler/edmund-gosse_william-archer/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "william-shakespeare_macbeth",
@@ -4918,9 +4918,9 @@
     "title": "Pelle the Conqueror",
     "author": "Martin Andersen Nexø",
     "translators": "Jessie Muir and Bernard Miall",
-    "url": "https://standardebooks.org/ebooks/martin-andersen-nexo/pelle-the-conqueror/jessie-muir/bernard-miall",
-    "cover_url": "https://standardebooks.org/ebooks/martin-andersen-nexo/pelle-the-conqueror/jessie-muir/bernard-miall/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/martin-andersen-nexo/pelle-the-conqueror/jessie-muir/bernard-miall/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/martin-andersen-nexo/pelle-the-conqueror/jessie-muir_bernard-miall",
+    "cover_url": "https://standardebooks.org/ebooks/martin-andersen-nexo/pelle-the-conqueror/jessie-muir_bernard-miall/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/martin-andersen-nexo/pelle-the-conqueror/jessie-muir_bernard-miall/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "george-borrow_lavengro",
@@ -5206,9 +5206,9 @@
     "title": "English as She Is Spoke",
     "author": "Pedro Carolino and José da Fonseca",
     "translators": null,
-    "url": "https://standardebooks.org/ebooks/pedro-carolino/jose-da-fonseca/english-as-she-is-spoke",
-    "cover_url": "https://standardebooks.org/ebooks/pedro-carolino/jose-da-fonseca/english-as-she-is-spoke/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/pedro-carolino/jose-da-fonseca/english-as-she-is-spoke/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/pedro-carolino_jose-da-fonseca/english-as-she-is-spoke",
+    "cover_url": "https://standardebooks.org/ebooks/pedro-carolino_jose-da-fonseca/english-as-she-is-spoke/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/pedro-carolino_jose-da-fonseca/english-as-she-is-spoke/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "jules-verne_round-the-moon_ward-lock-co",
@@ -5611,9 +5611,9 @@
     "title": "The Power of Darkness",
     "author": "Leo Tolstoy",
     "translators": "Louise Maude and Aylmer Maude",
-    "url": "https://standardebooks.org/ebooks/leo-tolstoy/the-power-of-darkness/louise-maude/aylmer-maude",
-    "cover_url": "https://standardebooks.org/ebooks/leo-tolstoy/the-power-of-darkness/louise-maude/aylmer-maude/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/leo-tolstoy/the-power-of-darkness/louise-maude/aylmer-maude/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/leo-tolstoy/the-power-of-darkness/louise-maude_aylmer-maude",
+    "cover_url": "https://standardebooks.org/ebooks/leo-tolstoy/the-power-of-darkness/louise-maude_aylmer-maude/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/leo-tolstoy/the-power-of-darkness/louise-maude_aylmer-maude/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "xavier-de-maistre_short-fiction_various-translators",
@@ -5692,9 +5692,9 @@
     "title": "Household Tales",
     "author": "Jacob Grimm and Wilhelm Grimm",
     "translators": "Margaret Hunt",
-    "url": "https://standardebooks.org/ebooks/jacob-grimm/wilhelm-grimm/household-tales/margaret-hunt",
-    "cover_url": "https://standardebooks.org/ebooks/jacob-grimm/wilhelm-grimm/household-tales/margaret-hunt/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/jacob-grimm/wilhelm-grimm/household-tales/margaret-hunt/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt",
+    "cover_url": "https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "alexander-mackenzie_journals",
@@ -6547,9 +6547,9 @@
     "title": "The Two Noble Kinsmen",
     "author": "William Shakespeare and John Fletcher",
     "translators": null,
-    "url": "https://standardebooks.org/ebooks/william-shakespeare/john-fletcher/the-two-noble-kinsmen",
-    "cover_url": "https://standardebooks.org/ebooks/william-shakespeare/john-fletcher/the-two-noble-kinsmen/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/william-shakespeare/john-fletcher/the-two-noble-kinsmen/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/william-shakespeare_john-fletcher/the-two-noble-kinsmen",
+    "cover_url": "https://standardebooks.org/ebooks/william-shakespeare_john-fletcher/the-two-noble-kinsmen/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/william-shakespeare_john-fletcher/the-two-noble-kinsmen/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "walter-de-la-mare_the-return",
@@ -6655,9 +6655,9 @@
     "title": "Germinie Lacerteux",
     "author": "Edmond de Goncourt and Jules de Goncourt",
     "translators": "John Chestershire",
-    "url": "https://standardebooks.org/ebooks/edmond-de-goncourt/jules-de-goncourt/germinie-lacerteux/john-chestershire",
-    "cover_url": "https://standardebooks.org/ebooks/edmond-de-goncourt/jules-de-goncourt/germinie-lacerteux/john-chestershire/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/edmond-de-goncourt/jules-de-goncourt/germinie-lacerteux/john-chestershire/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/edmond-de-goncourt_jules-de-goncourt/germinie-lacerteux/john-chestershire",
+    "cover_url": "https://standardebooks.org/ebooks/edmond-de-goncourt_jules-de-goncourt/germinie-lacerteux/john-chestershire/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/edmond-de-goncourt_jules-de-goncourt/germinie-lacerteux/john-chestershire/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "freeman-wills-crofts_inspector-frenchs-greatest-case",
@@ -7096,9 +7096,9 @@
     "title": "The Devil’s Pool",
     "author": "George Sand",
     "translators": "Jane Minot Sedgwick and Ellery Sedgwick",
-    "url": "https://standardebooks.org/ebooks/george-sand/the-devils-pool/jane-minot-sedgwick/ellery-sedgwick",
-    "cover_url": "https://standardebooks.org/ebooks/george-sand/the-devils-pool/jane-minot-sedgwick/ellery-sedgwick/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/george-sand/the-devils-pool/jane-minot-sedgwick/ellery-sedgwick/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/george-sand/the-devils-pool/jane-minot-sedgwick_ellery-sedgwick",
+    "cover_url": "https://standardebooks.org/ebooks/george-sand/the-devils-pool/jane-minot-sedgwick_ellery-sedgwick/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/george-sand/the-devils-pool/jane-minot-sedgwick_ellery-sedgwick/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "franklin-w-dixon_the-tower-treasure",
@@ -7294,9 +7294,9 @@
     "title": "Running a Thousand Miles for Freedom",
     "author": "Ellen Craft and William Craft",
     "translators": null,
-    "url": "https://standardebooks.org/ebooks/william-craft/ellen-craft/running-a-thousand-miles-for-freedom",
-    "cover_url": "https://standardebooks.org/ebooks/william-craft/ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/william-craft/ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom",
+    "cover_url": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/william-craft_ellen-craft/running-a-thousand-miles-for-freedom/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "richard-jefferies_greene-ferne-farm",
@@ -7492,9 +7492,9 @@
     "title": "The Blue Bird",
     "author": "Maurice Maeterlinck and Georgette Leblanc",
     "translators": "Alexander Teixeira de Mattos",
-    "url": "https://standardebooks.org/ebooks/maurice-maeterlinck/georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos",
-    "cover_url": "https://standardebooks.org/ebooks/maurice-maeterlinck/georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/maurice-maeterlinck/georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos",
+    "cover_url": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "robert-louis-stevenson_prince-otto",
@@ -7672,9 +7672,9 @@
     "title": "The Mule-Bone",
     "author": "Langston Hughes and Zora Neale Hurston",
     "translators": null,
-    "url": "https://standardebooks.org/ebooks/langston-hughes/zora-neale-hurston/the-mule-bone",
-    "cover_url": "https://standardebooks.org/ebooks/langston-hughes/zora-neale-hurston/the-mule-bone/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/langston-hughes/zora-neale-hurston/the-mule-bone/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/langston-hughes_zora-neale-hurston/the-mule-bone",
+    "cover_url": "https://standardebooks.org/ebooks/langston-hughes_zora-neale-hurston/the-mule-bone/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/langston-hughes_zora-neale-hurston/the-mule-bone/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "r-h-tawney_religion-and-the-rise-of-capitalism",
@@ -7762,9 +7762,9 @@
     "title": "Search the Sky",
     "author": "Frederik Pohl and C. M. Kornbluth",
     "translators": null,
-    "url": "https://standardebooks.org/ebooks/frederik-pohl/c-m-kornbluth/search-the-sky",
-    "cover_url": "https://standardebooks.org/ebooks/frederik-pohl/c-m-kornbluth/search-the-sky/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/frederik-pohl/c-m-kornbluth/search-the-sky/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth/search-the-sky",
+    "cover_url": "https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth/search-the-sky/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/frederik-pohl_c-m-kornbluth/search-the-sky/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "p-g-wodehouse_the-gold-bat",
@@ -9643,9 +9643,9 @@
     "title": "The Unicorn from the Stars",
     "author": "Lady Gregory and W. B. Yeats",
     "translators": null,
-    "url": "https://standardebooks.org/ebooks/lady-gregory/w-b-yeats/the-unicorn-from-the-stars",
-    "cover_url": "https://standardebooks.org/ebooks/lady-gregory/w-b-yeats/the-unicorn-from-the-stars/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/lady-gregory/w-b-yeats/the-unicorn-from-the-stars/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/lady-gregory_w-b-yeats/the-unicorn-from-the-stars",
+    "cover_url": "https://standardebooks.org/ebooks/lady-gregory_w-b-yeats/the-unicorn-from-the-stars/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/lady-gregory_w-b-yeats/the-unicorn-from-the-stars/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "frank-belknap-long_short-fiction",
@@ -10453,9 +10453,9 @@
     "title": "The Swiss Family Robinson",
     "author": "Johann David Wyss",
     "translators": "Mary Jane Godwin and William Godwin",
-    "url": "https://standardebooks.org/ebooks/johann-david-wyss/the-swiss-family-robinson/mary-jane-godwin/william-godwin",
-    "cover_url": "https://standardebooks.org/ebooks/johann-david-wyss/the-swiss-family-robinson/mary-jane-godwin/william-godwin/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/johann-david-wyss/the-swiss-family-robinson/mary-jane-godwin/william-godwin/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/johann-david-wyss/the-swiss-family-robinson/mary-jane-godwin_william-godwin",
+    "cover_url": "https://standardebooks.org/ebooks/johann-david-wyss/the-swiss-family-robinson/mary-jane-godwin_william-godwin/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/johann-david-wyss/the-swiss-family-robinson/mary-jane-godwin_william-godwin/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "d-h-lawrence_the-lost-girl",
@@ -10534,9 +10534,9 @@
     "title": "What Is to Be Done?",
     "author": "Nikolay Chernyshevsky",
     "translators": "Nathan Haskell Dole and Simon S. Skidelsky",
-    "url": "https://standardebooks.org/ebooks/nikolay-chernyshevsky/what-is-to-be-done/nathan-haskell-dole/simon-s-skidelsky",
-    "cover_url": "https://standardebooks.org/ebooks/nikolay-chernyshevsky/what-is-to-be-done/nathan-haskell-dole/simon-s-skidelsky/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/nikolay-chernyshevsky/what-is-to-be-done/nathan-haskell-dole/simon-s-skidelsky/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/nikolay-chernyshevsky/what-is-to-be-done/nathan-haskell-dole_simon-s-skidelsky",
+    "cover_url": "https://standardebooks.org/ebooks/nikolay-chernyshevsky/what-is-to-be-done/nathan-haskell-dole_simon-s-skidelsky/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/nikolay-chernyshevsky/what-is-to-be-done/nathan-haskell-dole_simon-s-skidelsky/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "honore-de-balzac_eugenie-grandet_clara-bell",
@@ -10795,9 +10795,9 @@
     "title": "Fantômas",
     "author": "Pierre Souvestre and Marcel Allain",
     "translators": "Cranstoun Metcalfe",
-    "url": "https://standardebooks.org/ebooks/pierre-souvestre/marcel-allain/fantomas/cranstoun-metcalfe",
-    "cover_url": "https://standardebooks.org/ebooks/pierre-souvestre/marcel-allain/fantomas/cranstoun-metcalfe/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/pierre-souvestre/marcel-allain/fantomas/cranstoun-metcalfe/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/pierre-souvestre_marcel-allain/fantomas/cranstoun-metcalfe",
+    "cover_url": "https://standardebooks.org/ebooks/pierre-souvestre_marcel-allain/fantomas/cranstoun-metcalfe/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/pierre-souvestre_marcel-allain/fantomas/cranstoun-metcalfe/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "h-g-wells_the-first-men-in-the-moon",
@@ -11227,9 +11227,9 @@
     "title": "The Inheritors",
     "author": "Joseph Conrad and Ford Madox Ford",
     "translators": null,
-    "url": "https://standardebooks.org/ebooks/joseph-conrad/ford-madox-ford/the-inheritors",
-    "cover_url": "https://standardebooks.org/ebooks/joseph-conrad/ford-madox-ford/the-inheritors/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/joseph-conrad/ford-madox-ford/the-inheritors/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-inheritors",
+    "cover_url": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-inheritors/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-inheritors/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "ellery-queen_the-roman-hat-mystery",
@@ -11398,9 +11398,9 @@
     "title": "The Bridal Wreath",
     "author": "Sigrid Undset",
     "translators": "Charles Archer and J. S. Scott",
-    "url": "https://standardebooks.org/ebooks/sigrid-undset/the-bridal-wreath/charles-archer/j-s-scott",
-    "cover_url": "https://standardebooks.org/ebooks/sigrid-undset/the-bridal-wreath/charles-archer/j-s-scott/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/sigrid-undset/the-bridal-wreath/charles-archer/j-s-scott/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/sigrid-undset/the-bridal-wreath/charles-archer_j-s-scott",
+    "cover_url": "https://standardebooks.org/ebooks/sigrid-undset/the-bridal-wreath/charles-archer_j-s-scott/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/sigrid-undset/the-bridal-wreath/charles-archer_j-s-scott/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "c-kay-scott_blind-mice",
@@ -12127,9 +12127,9 @@
     "title": "The Castle",
     "author": "Franz Kafka",
     "translators": "Willa Muir and Edwin Muir",
-    "url": "https://standardebooks.org/ebooks/franz-kafka/the-castle/willa-muir/edwin-muir",
-    "cover_url": "https://standardebooks.org/ebooks/franz-kafka/the-castle/willa-muir/edwin-muir/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/franz-kafka/the-castle/willa-muir/edwin-muir/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/franz-kafka/the-castle/willa-muir_edwin-muir",
+    "cover_url": "https://standardebooks.org/ebooks/franz-kafka/the-castle/willa-muir_edwin-muir/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/franz-kafka/the-castle/willa-muir_edwin-muir/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "geoffrey-dennis_the-end-of-the-world",
@@ -12181,9 +12181,9 @@
     "title": "The City of God",
     "author": "Augustine of Hippo",
     "translators": "Marcus Dods, George Wilson, and J. J. Smith",
-    "url": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods/george-wilson/j-j-smith",
-    "cover_url": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods/george-wilson/j-j-smith/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods/george-wilson/j-j-smith/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith",
+    "cover_url": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "harry-harrison_planet-of-the-damned",
@@ -12370,9 +12370,9 @@
     "title": "Romance",
     "author": "Joseph Conrad and Ford Madox Ford",
     "translators": null,
-    "url": "https://standardebooks.org/ebooks/joseph-conrad/ford-madox-ford/romance",
-    "cover_url": "https://standardebooks.org/ebooks/joseph-conrad/ford-madox-ford/romance/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/joseph-conrad/ford-madox-ford/romance/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/romance",
+    "cover_url": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/romance/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/romance/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "anthony-berkeley_the-layton-court-mystery",
@@ -12451,18 +12451,18 @@
     "title": "The Adventurous Simplicissimus",
     "author": "Hans Jakob Christoffel von Grimmelshausen",
     "translators": "Alfred Thomas Scrope Goodrick",
-    "url": "https://standardebooks.org/ebooks/hans-jakob-christoffel-von-grimmelshausen/the-adventurous-simplicissimus/alfred-thomas-scrope-goodri",
-    "cover_url": "https://standardebooks.org/ebooks/hans-jakob-christoffel-von-grimmelshausen/the-adventurous-simplicissimus/alfred-thomas-scrope-goodri/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/hans-jakob-christoffel-von-grimmelshausen/the-adventurous-simplicissimus/alfred-thomas-scrope-goodri/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/hans-jakob-christoffel-von-grimmelshausen/the-adventurous-simplicissimus/alfred-thomas-scrope-goodrick",
+    "cover_url": "https://standardebooks.org/ebooks/hans-jakob-christoffel-von-grimmelshausen/the-adventurous-simplicissimus/alfred-thomas-scrope-goodrick/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/hans-jakob-christoffel-von-grimmelshausen/the-adventurous-simplicissimus/alfred-thomas-scrope-goodrick/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "anonymous_barlaam-and-ioasaph_george-ratcliffe-woodward_harold-mattingly",
     "title": "Barlaam And Ioasaph",
     "author": "Anonymous",
     "translators": "George Ratcliffe Woodward",
-    "url": "https://standardebooks.org/ebooks/anonymous/barlaam-and-ioasaph/george-ratcliffe-woodward/harold-mattingly",
-    "cover_url": "https://standardebooks.org/ebooks/anonymous/barlaam-and-ioasaph/george-ratcliffe-woodward/harold-mattingly/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/anonymous/barlaam-and-ioasaph/george-ratcliffe-woodward/harold-mattingly/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/anonymous/barlaam-and-ioasaph/george-ratcliffe-woodward_harold-mattingly",
+    "cover_url": "https://standardebooks.org/ebooks/anonymous/barlaam-and-ioasaph/george-ratcliffe-woodward_harold-mattingly/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/anonymous/barlaam-and-ioasaph/george-ratcliffe-woodward_harold-mattingly/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "mary-de-morgan_the-necklace-of-princess-fiorimonde",
@@ -12658,9 +12658,9 @@
     "title": "The Documents in the Case",
     "author": "Dorothy L. Sayers and Robert Eustace",
     "translators": null,
-    "url": "https://standardebooks.org/ebooks/dorothy-l-sayers/robert-eustace/the-documents-in-the-case",
-    "cover_url": "https://standardebooks.org/ebooks/dorothy-l-sayers/robert-eustace/the-documents-in-the-case/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/dorothy-l-sayers/robert-eustace/the-documents-in-the-case/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/dorothy-l-sayers_robert-eustace/the-documents-in-the-case",
+    "cover_url": "https://standardebooks.org/ebooks/dorothy-l-sayers_robert-eustace/the-documents-in-the-case/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/dorothy-l-sayers_robert-eustace/the-documents-in-the-case/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "may-sinclair_mary-olivier-a-life",
@@ -12838,9 +12838,9 @@
     "title": "Olney Hymns",
     "author": "John Newton and William Cowper",
     "translators": null,
-    "url": "https://standardebooks.org/ebooks/john-newton/william-cowper/olney-hymns",
-    "cover_url": "https://standardebooks.org/ebooks/john-newton/william-cowper/olney-hymns/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/john-newton/william-cowper/olney-hymns/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/john-newton_william-cowper/olney-hymns",
+    "cover_url": "https://standardebooks.org/ebooks/john-newton_william-cowper/olney-hymns/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/john-newton_william-cowper/olney-hymns/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "joseph-conrad_the-arrow-of-gold",
@@ -12910,18 +12910,18 @@
     "title": "Hamilton",
     "author": "Mary P. Hamlin and George Arliss",
     "translators": null,
-    "url": "https://standardebooks.org/ebooks/mary-p-hamlin/george-arliss/hamilton",
-    "cover_url": "https://standardebooks.org/ebooks/mary-p-hamlin/george-arliss/hamilton/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/mary-p-hamlin/george-arliss/hamilton/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/mary-p-hamlin_george-arliss/hamilton",
+    "cover_url": "https://standardebooks.org/ebooks/mary-p-hamlin_george-arliss/hamilton/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/mary-p-hamlin_george-arliss/hamilton/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "joseph-conrad_ford-madox-ford_the-nature-of-a-crime",
     "title": "The Nature of a Crime",
     "author": "Joseph Conrad and Ford Madox Ford",
     "translators": null,
-    "url": "https://standardebooks.org/ebooks/joseph-conrad/ford-madox-ford/the-nature-of-a-crime",
-    "cover_url": "https://standardebooks.org/ebooks/joseph-conrad/ford-madox-ford/the-nature-of-a-crime/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/joseph-conrad/ford-madox-ford/the-nature-of-a-crime/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-nature-of-a-crime",
+    "cover_url": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-nature-of-a-crime/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-nature-of-a-crime/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "anthony-trollope_dr-wortles-school",
@@ -13171,9 +13171,9 @@
     "title": "June Moon",
     "author": "Ring Lardner and George S. Kaufman",
     "translators": null,
-    "url": "https://standardebooks.org/ebooks/ring-lardner/george-s-kaufman/june-moon",
-    "cover_url": "https://standardebooks.org/ebooks/ring-lardner/george-s-kaufman/june-moon/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/ring-lardner/george-s-kaufman/june-moon/downloads/cover-thumbnail.jpg"
+    "url": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon",
+    "cover_url": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon/downloads/cover-thumbnail.jpg"
   },
   {
     "id": "confucius_analects_james-legge",
