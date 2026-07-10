@@ -142,7 +142,8 @@ body {
 
 /* --- Main Card --- */
 .book-card {
-  width: 100%;
+  width: 860px; /* FIXED: Hard lock the overall container width on desktop */
+  max-width: 100%; /* Keeps it fully responsive if window drops below 860px */
   background: var(--card-bg);
   backdrop-filter: blur(24px);
   -webkit-backdrop-filter: blur(24px);
@@ -150,9 +151,9 @@ body {
   border-radius: 24px;
   box-shadow: var(--shadow-lg);
   display: grid;
-  grid-template-columns: 42% 58%;
+  grid-template-columns: 360px 1fr; /* FIXED: Left side stays exactly 360px, right side fills cleanly remaining space */
   overflow: hidden;
-  align-items: stretch; /* Allows panels to stretch vertically together, but we decouple the image wrapper below */
+  align-items: stretch;
   transition: box-shadow 0.5s ease, border-color 0.5s ease;
   animation: fadeInUp 0.9s cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }
@@ -168,10 +169,10 @@ body {
   background: rgba(0, 0, 0, 0.2);
   display: flex;
   justify-content: center;
-  align-items: center; /* FIXED: Keeps the child wrapper centered vertically even if the parent container grows taller */
+  align-items: center;
   position: relative;
   border-right: 1px solid var(--card-border);
-  width: 100%;
+  width: 360px; /* FIXED: Locks the wrapper panel dimension tightly */
 }
 
 .cover-wrapper {
@@ -446,12 +447,14 @@ body {
   .book-card {
     grid-template-columns: 1fr;
     border-radius: 20px;
+    width: 100%; /* Reverts to clean full-width stacking for smaller devices */
   }
   
   .cover-section {
     padding: 2.5rem 2rem;
     border-right: none;
     border-bottom: 1px solid var(--card-border);
+    width: 100%; /* Resets panel layout width context */
   }
   
   .cover-wrapper {
