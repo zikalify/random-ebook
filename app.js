@@ -17,6 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const translatorNameEl = document.getElementById('book-translator');
   
   const readBtn = document.getElementById('read-btn');
+  const coverLink = document.getElementById('cover-link');
   const nextBtn = document.getElementById('next-btn');
 
   // App State
@@ -82,6 +83,7 @@ document.addEventListener('DOMContentLoaded', () => {
     titleEl.textContent = book.title;
     authorEl.textContent = book.author;
     readBtn.href = book.url;
+    coverLink.href = book.url;
     
     if (book.translators) {
       translatorNameEl.textContent = book.translators;
@@ -169,4 +171,3 @@ if ('serviceWorker' in navigator) {
       .catch(err => console.error('Service Worker registration failed:', err));
   });
 }
-
