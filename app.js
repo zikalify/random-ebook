@@ -6,7 +6,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   // DOM Elements
   const bookCard = document.getElementById('book-card');
-  const coverWrapper = document.getElementById('cover-wrapper');
   const coverBlurImg = document.getElementById('cover-blur');
   const coverMainImg = document.getElementById('cover-img');
   const loadingOverlay = document.getElementById('loading-overlay');
@@ -19,6 +18,28 @@ document.addEventListener('DOMContentLoaded', () => {
   const readBtn = document.getElementById('read-btn');
   const coverLink = document.getElementById('cover-link');
   const nextBtn = document.getElementById('next-btn');
+
+  // Make the cover open the same link as the "Read Book" button without causing a full page navigation.
+  // Keep the anchor's href neutral (e.g. "#") in HTML and use this handler so the cover always follows whatever
+  // readBtn.href is set to at click time.
+  if (coverLink) {
+    coverLink.addEventListener('click', (e) => {
+      e.preventDefault();
+      const tryOpen = () => {
+        const url = readBtn && readBtn.href;
+        if (url && url !== '#' && url !== window.location.href) {
+          window.open(url, '_blank', 'noopener');
+          return true;
+        }
+        return false;
+      };
+
+      // Try immediately, and once more shortly after in case the readBtn href is set asynchronously.
+      if (!tryOpen()) {
+        setTimeout(() => { tryOpen(); }, 150);
+      }
+    });
+  }
 
   // App State
   let booksCatalog = [];
@@ -82,8 +103,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // 2. Update text content & URLs
     titleEl.textContent = book.title;
     authorEl.textContent = book.author;
-    readBtn.href = book.url;
-    coverLink.href = book.url;
+    readBtn.href = book.url; // read button controls the canonical link
+    // Do NOT set coverLink.href here so the anchor stays neutral and won't trigger a navigation if JS is disabled.
     
     if (book.translators) {
       translatorNameEl.textContent = book.translators;
@@ -150,7 +171,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Event Listeners
   nextBtn.addEventListener('click', displayRandomBook);
-
+  
   // Keyboard navigation (spacebar to get next book)
   document.addEventListener('keydown', (e) => {
     if (e.code === 'Space') {
