@@ -7,7 +7,7 @@
   <meta name="description" content="Discover random beautiful books from the Standard Ebooks collection with cover art and direct reading links.">
   
   <!-- Favicon -->
-  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23e5b842'%3E%3Cpath d='M21 2.859l-8.5 1.684-8.5-1.684v14.641l8.5 1.684 8.5-1.684v-14.641zM12 16.25l-6.5-1.285v-11.16l6.5 1.289v11.156zm1-11.156l6.5-1.289v11.16l-6.5 1.285v-11.156z'/%3E%3C/svg%3E">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23e5b842'%3E%3Cpath d='M21 2.859l-8.5 1.684-8.5-1.684v14.641l8.5 1[...]
   
   <!-- Web App Manifest (PWA) -->
   <link rel="manifest" href="manifest.json">
@@ -44,7 +44,7 @@
       <div class="book-card" id="book-card">
         <!-- Left Side: Cover Art Container -->
         <div class="cover-section">
-          <div class="cover-wrapper" id="cover-wrapper">
+          <a href="#" id="cover-link" class="cover-wrapper" target="_blank" rel="noopener">
             <!-- Low-res thumbnail for blurred placeholder -->
             <img id="cover-blur" class="cover-img blur-placeholder" src="" alt="Loading cover...">
             <!-- High-res cover image -->
@@ -53,7 +53,7 @@
             <div class="loading-overlay" id="loading-overlay">
               <div class="spinner"></div>
             </div>
-          </div>
+          </a>
         </div>
 
         <!-- Right Side: Details and Actions -->
