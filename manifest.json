@@ -6,7 +6,7 @@
   "display": "standalone",
   "background_color": "#0b0f17",
   "theme_color": "#e5b842",
-  "orientation": "portrait",
+  "orientation": "natural",
   "icons": [
     {
       "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M21 2.859l-8.5 1.684-8.5-1.684v14.641l8.5 1.684 8.5-1.684zm-9 14.281l-7-1.385v-11.458l7 1.385zm8-1.385l-7 1.385v-11.458l7-1.385z' fill='%23e5b842'/%3E%3C/svg%3E",
