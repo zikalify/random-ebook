@@ -140,10 +140,11 @@ body {
   font-weight: 600;
 }
 
-/* --- Main Card --- */
+/* --- Main Card - LOCKED SIZE PER BREAKPOINT --- */
 .book-card {
   width: 100%;
   max-width: 860px;
+  min-height: 520px;
   background: var(--card-bg);
   backdrop-filter: blur(24px);
   -webkit-backdrop-filter: blur(24px);
@@ -151,7 +152,8 @@ body {
   border-radius: 24px;
   box-shadow: var(--shadow-lg);
   display: grid;
-  grid-template-columns: minmax(0, 300px) minmax(0, 1fr);
+  grid-template-columns: 300px minmax(0, 1fr);
+  grid-template-rows: 1fr;
   overflow: hidden;
   align-items: stretch;
   transition: box-shadow 0.5s ease, border-color 0.5s ease;
@@ -163,7 +165,7 @@ body {
   box-shadow: var(--shadow-lg), var(--shadow-glow);
 }
 
-/* --- Cover Art Section --- */
+/* --- Cover Art Section - FIXED --- */
 .cover-section {
   padding: 3rem;
   background: rgba(0, 0, 0, 0.2);
@@ -172,14 +174,15 @@ body {
   align-items: center;
   position: relative;
   border-right: 1px solid var(--card-border);
-  min-width: 0;   /* prevents this track from forcing the grid to overflow */
+  min-width: 0;
+  min-height: 520px;
 }
 
 .cover-wrapper {
   position: relative;
-  width: 260px;          /* Hard locked book template frame width */
-  height: 390px;         /* Hard locked book template frame height */
-  flex-shrink: 0;        
+  width: 260px;
+  height: 390px;
+  flex-shrink: 0;
   border-radius: 8px;
   box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
   overflow: hidden;
@@ -203,7 +206,6 @@ body {
   transition: opacity 0.5s ease, filter 0.5s ease;
 }
 
-/* Blurry Thumbnail loading effect */
 .blur-placeholder {
   filter: blur(15px);
   z-index: 1;
@@ -218,7 +220,6 @@ body {
   opacity: 1;
 }
 
-/* Loading Overlay */
 .loading-overlay {
   position: absolute;
   top: 0;
@@ -254,20 +255,24 @@ body {
   to { transform: rotate(360deg); }
 }
 
-/* --- Metadata Section --- */
+/* --- Metadata Section - FIXED LAYOUT --- */
 .details-section {
   padding: 3.5rem 3rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  gap: 2.5rem;
+  gap: 1.5rem;
   min-width: 0;
+  min-height: 520px;
 }
 
 .meta-container {
   display: flex;
   flex-direction: column;
   gap: 0.8rem;
+  flex: 1 1 auto;
+  min-height: 260px;
+  justify-content: flex-start;
   animation: fadeIn 0.8s ease-out;
 }
 
@@ -287,11 +292,17 @@ body {
 
 .book-title {
   font-family: var(--font-serif);
-  font-size: 2.5rem;
+  font-size: clamp(1.6rem, 2.2vw, 2.5rem);
   font-weight: 700;
-  line-height: 1.25;
+  line-height: 1.2;
   color: #ffffff;
   margin-top: 0.4rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: 3.6em;
+  text-wrap: balance;
   transition: opacity 0.3s ease, transform 0.3s ease;
 }
 
@@ -307,10 +318,15 @@ body {
 
 .book-author {
   font-family: var(--font-serif);
-  font-size: 1.45rem;
+  font-size: clamp(1.1rem, 1.5vw, 1.45rem);
   font-style: italic;
   font-weight: 400;
   color: #fff;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: 2.4em;
   transition: opacity 0.3s ease, transform 0.3s ease;
 }
 
@@ -320,13 +336,30 @@ body {
   font-style: italic;
   color: var(--text-muted);
   margin-top: 0.5rem;
+  min-height: 1.4em;
+  visibility: hidden;
   transition: opacity 0.3s ease;
+}
+
+.translator-info.visible {
+  visibility: visible;
 }
 
 .translator-info span {
   font-weight: 400;
   color: var(--text-main);
   font-style: normal;
+}
+
+/* Legacy support for old JS that uses display:none */
+.translator-info[style*="display: none"] {
+  visibility: hidden !important;
+  display: block !important;
+}
+.translator-info[style*="display: block"],
+.translator-info[style*="display: flex"] {
+  visibility: visible !important;
+  display: block !important;
 }
 
 /* --- Action Buttons --- */
@@ -387,7 +420,6 @@ body {
 
 .btn-secondary:active { transform: translateY(0); }
 
-/* SVG Icon Micro-animations */
 .btn-primary:hover .icon-arrow { transform: translateX(4px); }
 .icon-arrow { transition: transform 0.3s ease; }
 .btn-secondary:hover .icon-refresh { transform: rotate(180deg); }
@@ -419,7 +451,6 @@ body {
 .fade-out { opacity: 0; transform: translateY(5px); }
 .fade-in { opacity: 1; transform: translateY(0); }
 
-/* --- Page Entrance Animations --- */
 @keyframes fadeInDown {
   from { opacity: 0; transform: translateY(-20px); }
   to { opacity: 1; transform: translateY(0); }
@@ -435,7 +466,7 @@ body {
   to { opacity: 1; }
 }
 
-/* --- Responsive Adjustments (Desktop & Mobile) --- */
+/* --- Responsive Adjustments --- */
 @media (max-width: 980px) {
   .app-container {
     padding: 1.5rem 1rem;
@@ -448,6 +479,7 @@ body {
     grid-template-columns: 1fr;
     border-radius: 20px;
     width: 100%;
+    min-height: 780px;
   }
   
   .cover-section {
@@ -455,6 +487,7 @@ body {
     border-right: none;
     border-bottom: 1px solid var(--card-border);
     width: 100%;
+    min-height: 400px;
   }
   
   .cover-wrapper {
@@ -465,15 +498,29 @@ body {
   .details-section {
     padding: 2.5rem 2rem;
     gap: 2rem;
+    min-height: 380px;
   }
   
-  .book-title { font-size: 2rem; }
+  .meta-container {
+    min-height: 200px;
+  }
+  
+  .book-title { font-size: clamp(1.5rem, 4vw, 2rem); }
   .book-author { font-size: 1.3rem; }
 }
 
 @media (max-width: 480px) {
-  .details-section { padding: 1.75rem; }
-  .book-title { font-size: 1.75rem; }
+  .book-card {
+    min-height: 700px;
+  }
+  .cover-section {
+    min-height: 360px;
+  }
+  .details-section {
+    min-height: 340px;
+    padding: 1.75rem;
+  }
+  .book-title { font-size: clamp(1.35rem, 5vw, 1.75rem); }
   .actions-container { flex-direction: column; width: 100%; }
   
   .btn {
