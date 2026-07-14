@@ -1,10 +1,7 @@
-const CACHE_NAME = 'se-discover-v25';
+const CACHE_NAME = 'se-discover-v27';
 const ASSETS = [
   './',
   './index.html',
-  './styles.css',
-  './app.js',
-  './books.json',
   './manifest.json',
   './icon-192.png',
   './icon-512.png',
@@ -14,7 +11,7 @@ const ASSETS = [
 self.addEventListener('install', (e) => {
   e.waitUntil(
     caches.open(CACHE_NAME)
-      .then(c => c.addAll(ASSETS))
+      .then(cache => cache.addAll(ASSETS))
       .then(() => self.skipWaiting())
   );
 });
@@ -29,15 +26,11 @@ self.addEventListener('activate', (e) => {
 
 self.addEventListener('fetch', (e) => {
   if (e.request.method !== 'GET') return;
+  if (e.request.mode === 'navigate') {
+    e.respondWith(fetch(e.request).catch(() => caches.match('./offline.html') || caches.match('./index.html')));
+    return;
+  }
   e.respondWith(
-    caches.match(e.request).then(cached => {
-      return cached || fetch(e.request).then(res => {
-        if (e.request.url.includes('standardebooks.org')) {
-          const clone = res.clone();
-          caches.open(CACHE_NAME).then(c => c.put(e.request, clone));
-        }
-        return res;
-      });
-    })
+    caches.match(e.request).then(c => c || fetch(e.request))
   );
 });
