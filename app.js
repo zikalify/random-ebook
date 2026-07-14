@@ -108,9 +108,9 @@ document.addEventListener('DOMContentLoaded', () => {
     
     if (book.translators) {
       translatorNameEl.textContent = book.translators;
-      translatorInfoEl.style.display = 'block';
+      translatorInfoEl.classList.add('visible');
     } else {
-      translatorInfoEl.style.display = 'none';
+      translatorInfoEl.classList.remove('visible');
     }
     
     // 3. Setup images (low-res thumbnail loads fast, high-res in background)
@@ -160,7 +160,7 @@ document.addEventListener('DOMContentLoaded', () => {
     showLoading(false);
     titleEl.textContent = "Unable to load library";
     authorEl.textContent = "Error Details";
-    translatorInfoEl.style.display = 'block';
+    translatorInfoEl.classList.add('visible');
     translatorNameEl.innerHTML = `<span style="color: #ff6b6b;">${message}</span><br><br>Please check that <strong>books.json</strong> exists and contains valid JSON metadata.`;
     coverBlurImg.src = "";
     coverMainImg.src = "";
