@@ -44,13 +44,6 @@ document.addEventListener('DOMContentLoaded', () => {
   // App State
   let booksCatalog = [];
   let isTransitioning = false;
-  let lastOrientation = window.orientation || screen.orientation?.angle;
-
-  // Listen for orientation changes
-  window.addEventListener('orientationchange', handleOrientationChange);
-  if (screen.orientation) {
-    screen.orientation.addEventListener('change', handleOrientationChange);
-  }
 
   // Load books catalog from local JSON
   async function loadCatalog() {
