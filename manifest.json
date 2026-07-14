@@ -2,21 +2,28 @@
   "name": "Random Book",
   "short_name": "Random Book",
   "description": "Discover random beautiful books from the Standard Ebooks catalog",
-  "start_url": "./index.html",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#0b0f17",
   "theme_color": "#e5b842",
   "icons": [
     {
-      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M21 2.859l-8.5 1.684-8.5-1.684v14.641l8.5 1.684 8.5-1.684zm-9 14.281l-7-1.385v-11.458l7 1.385zm8-1.385l-7 1.385v-11.458l7-1.385z' fill='%23e5b842'/%3E%3C/svg%3E",
-      "sizes": "192x192 512x512",
-      "type": "image/svg+xml",
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='-6 -6 36 36'%3E%3Crect x='-6' y='-6' width='36' height='36' fill='%230b0f17'/%3E%3Cpath d='M21 2.859l-8.5 1.684-8.5-1.684v14.641l8.5 1.684 8.5-1.684zm-9 14.281l-7-1.385v-11.458l7 1.385zm8-1.385l-7 1.385v-11.458l7-1.385z' fill='%23e5b842'/%3E%3C/svg%3E",
-      "sizes": "192x192 512x512",
-      "type": "image/svg+xml",
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
       "purpose": "maskable"
     }
   ]
