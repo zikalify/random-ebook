@@ -44,6 +44,39 @@ document.addEventListener('DOMContentLoaded', () => {
   // App State
   let booksCatalog = [];
   let isTransitioning = false;
+  let lastOrientation = window.orientation || screen.orientation?.angle;
+
+  // Check if device rotation is locked
+  function isRotationLocked() {
+    // Check if screen orientation API is available and if orientation is locked
+    if (screen.orientation && screen.orientation.type) {
+      // If type contains "portrait" or "landscape" (not "portrait-primary" or similar dynamic types),
+      // it means the orientation is locked
+      const type = screen.orientation.type;
+      return type === 'portrait-primary' || 
+             type === 'portrait-secondary' || 
+             type === 'landscape-primary' || 
+             type === 'landscape-secondary';
+    }
+    // Fallback: assume not locked if API unavailable
+    return false;
+  }
+
+  // Handle orientation changes while respecting rotation lock
+  function handleOrientationChange() {
+    // Only allow layout adjustments if rotation is NOT locked
+    if (!isRotationLocked()) {
+      // The browser will naturally handle the orientation change
+      // This function is here for future enhancements if needed
+      return;
+    }
+  }
+
+  // Listen for orientation changes
+  window.addEventListener('orientationchange', handleOrientationChange);
+  if (screen.orientation) {
+    screen.orientation.addEventListener('change', handleOrientationChange);
+  }
 
   // Load books catalog from local JSON
   async function loadCatalog() {
