@@ -1,4 +1,4 @@
-const CACHE_NAME = 'se-discover-v34';
+const CACHE_NAME = 'se-discover-v35';
 const ASSETS = [
   './',
   './index.html',
