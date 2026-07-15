@@ -41,20 +41,6 @@ document.addEventListener('DOMContentLoaded', () => {
   let booksCatalog = [];
   let isTransitioning = false;
 
-  // Auto-fit text to its locked container - shrinks font instead of growing box
-  function fitTextToContainer(el, maxSizeRem, minSizeRem) {
-    if (!el) return;
-    let size = maxSizeRem;
-    el.style.fontSize = size + 'rem';
-    // Reduce until it fits inside its fixed height (3.6em for title, 2.4em for author)
-    let attempts = 0;
-    while (el.scrollHeight > el.clientHeight + 1 && size > minSizeRem && attempts < 30) {
-      size -= 0.05;
-      el.style.fontSize = size + 'rem';
-      attempts++;
-    }
-  }
-
   // Load books catalog from local JSON
   async function loadCatalog() {
     try {
@@ -110,20 +96,6 @@ document.addEventListener('DOMContentLoaded', () => {
       translatorNameEl.textContent = '';
       translatorInfoEl.classList.remove('visible');
     }
-
-    // Auto-shrink text to fit locked box instead of growing box
-    requestAnimationFrame(() => {
-      // Desktop: title up to 2.5rem down to 1.3rem, author 1.45rem down to 1.0rem
-      // Mobile will be clamped by CSS but JS still helps
-      const isMobile = window.innerWidth <= 980;
-      if (isMobile) {
-        fitTextToContainer(titleEl, 2.0, 1.2);
-        fitTextToContainer(authorEl, 1.3, 1.0);
-      } else {
-        fitTextToContainer(titleEl, 2.5, 1.3);
-        fitTextToContainer(authorEl, 1.45, 1.0);
-      }
-    });
     
     coverBlurImg.src = book.thumbnail_url;
     coverMainImg.classList.remove('loaded');
