@@ -13273,5 +13273,41 @@
     "url": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-an-infantry-officer",
     "cover_url": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-an-infantry-officer/downloads/cover.jpg",
     "thumbnail_url": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-an-infantry-officer/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "charles-dickens_the-mystery-of-edwin-drood",
+    "title": "The Mystery of Edwin Drood",
+    "author": "Charles Dickens",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/charles-dickens/the-mystery-of-edwin-drood",
+    "cover_url": "https://standardebooks.org/ebooks/charles-dickens/the-mystery-of-edwin-drood/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/charles-dickens/the-mystery-of-edwin-drood/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "edgar-rice-burroughs_pirates-of-venus",
+    "title": "Pirates of Venus",
+    "author": "Edgar Rice Burroughs",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pirates-of-venus",
+    "cover_url": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pirates-of-venus/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/edgar-rice-burroughs/pirates-of-venus/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "arthur-b-reeve_craig-kennedy-stories",
+    "title": "Craig Kennedy Stories",
+    "author": "Arthur B. Reeve",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/arthur-b-reeve/craig-kennedy-stories",
+    "cover_url": "https://standardebooks.org/ebooks/arthur-b-reeve/craig-kennedy-stories/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/arthur-b-reeve/craig-kennedy-stories/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "maria-lowell_poetry",
+    "title": "Poetry",
+    "author": "Maria Lowell",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/maria-lowell/poetry",
+    "cover_url": "https://standardebooks.org/ebooks/maria-lowell/poetry/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/maria-lowell/poetry/downloads/cover-thumbnail.jpg"
   }
 ]
