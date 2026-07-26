@@ -13309,5 +13309,23 @@
     "url": "https://standardebooks.org/ebooks/maria-lowell/poetry",
     "cover_url": "https://standardebooks.org/ebooks/maria-lowell/poetry/downloads/cover.jpg",
     "thumbnail_url": "https://standardebooks.org/ebooks/maria-lowell/poetry/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "walter-white_the-fire-in-the-flint",
+    "title": "The Fire in the Flint",
+    "author": "Walter White",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/walter-white/the-fire-in-the-flint",
+    "cover_url": "https://standardebooks.org/ebooks/walter-white/the-fire-in-the-flint/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/walter-white/the-fire-in-the-flint/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "james-branch-cabell_the-line-of-love",
+    "title": "The Line of Love",
+    "author": "James Branch Cabell",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love",
+    "cover_url": "https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love/downloads/cover-thumbnail.jpg"
   }
 ]
