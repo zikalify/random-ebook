@@ -13327,5 +13327,59 @@
     "url": "https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love",
     "cover_url": "https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love/downloads/cover.jpg",
     "thumbnail_url": "https://standardebooks.org/ebooks/james-branch-cabell/the-line-of-love/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "joseph-conrad_the-rescue",
+    "title": "The Rescue",
+    "author": "Joseph Conrad",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/joseph-conrad/the-rescue",
+    "cover_url": "https://standardebooks.org/ebooks/joseph-conrad/the-rescue/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/joseph-conrad/the-rescue/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "max-weber_the-protestant-ethic-and-the-spirit-of-capitalism_talcott-parsons",
+    "title": "The Protestant Ethic and the Spirit of Capitalism",
+    "author": "Max Weber",
+    "translators": "Talcott Parsons",
+    "url": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons",
+    "cover_url": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/max-weber/the-protestant-ethic-and-the-spirit-of-capitalism/talcott-parsons/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "h-c-mcneile_the-black-gang",
+    "title": "The Black Gang",
+    "author": "H. C. McNeile",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/h-c-mcneile/the-black-gang",
+    "cover_url": "https://standardebooks.org/ebooks/h-c-mcneile/the-black-gang/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/h-c-mcneile/the-black-gang/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "mor-jokai_midst-the-wild-carpathians_robert-nisbet-bain",
+    "title": "’Midst the Wild Carpathians",
+    "author": "Mór Jókai",
+    "translators": "Robert Nisbet Bain",
+    "url": "https://standardebooks.org/ebooks/mor-jokai/midst-the-wild-carpathians/robert-nisbet-bain",
+    "cover_url": "https://standardebooks.org/ebooks/mor-jokai/midst-the-wild-carpathians/robert-nisbet-bain/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/mor-jokai/midst-the-wild-carpathians/robert-nisbet-bain/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "charles-kingsley_hypatia",
+    "title": "Hypatia",
+    "author": "Charles Kingsley",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/charles-kingsley/hypatia",
+    "cover_url": "https://standardebooks.org/ebooks/charles-kingsley/hypatia/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/charles-kingsley/hypatia/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "joseph-conrad_suspense",
+    "title": "Suspense",
+    "author": "Joseph Conrad",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/joseph-conrad/suspense",
+    "cover_url": "https://standardebooks.org/ebooks/joseph-conrad/suspense/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/joseph-conrad/suspense/downloads/cover-thumbnail.jpg"
   }
 ]
