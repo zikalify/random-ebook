@@ -13381,5 +13381,59 @@
     "url": "https://standardebooks.org/ebooks/joseph-conrad/suspense",
     "cover_url": "https://standardebooks.org/ebooks/joseph-conrad/suspense/downloads/cover.jpg",
     "thumbnail_url": "https://standardebooks.org/ebooks/joseph-conrad/suspense/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "rabindranath-tagore_the-home-and-the-world_surendranath-tagore",
+    "title": "The Home and the World",
+    "author": "Rabindranath Tagore",
+    "translators": "Surendranath Tagore",
+    "url": "https://standardebooks.org/ebooks/rabindranath-tagore/the-home-and-the-world/surendranath-tagore",
+    "cover_url": "https://standardebooks.org/ebooks/rabindranath-tagore/the-home-and-the-world/surendranath-tagore/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/rabindranath-tagore/the-home-and-the-world/surendranath-tagore/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "franklin-w-dixon_the-great-airport-mystery",
+    "title": "The Great Airport Mystery",
+    "author": "Franklin W. Dixon",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/franklin-w-dixon/the-great-airport-mystery",
+    "cover_url": "https://standardebooks.org/ebooks/franklin-w-dixon/the-great-airport-mystery/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/franklin-w-dixon/the-great-airport-mystery/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "john-gay_the-beggars-opera",
+    "title": "The Beggar’s Opera",
+    "author": "John Gay",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/john-gay/the-beggars-opera",
+    "cover_url": "https://standardebooks.org/ebooks/john-gay/the-beggars-opera/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/john-gay/the-beggars-opera/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "henry-van-dyke-jr_the-house-of-rimmon",
+    "title": "The House of Rimmon",
+    "author": "Henry van Dyke Jr",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/henry-van-dyke-jr/the-house-of-rimmon",
+    "cover_url": "https://standardebooks.org/ebooks/henry-van-dyke-jr/the-house-of-rimmon/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/henry-van-dyke-jr/the-house-of-rimmon/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "mourning-dove_cogewea-the-half-blood",
+    "title": "Cogewea, the Half-Blood",
+    "author": "Mourning Dove",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/mourning-dove/cogewea-the-half-blood",
+    "cover_url": "https://standardebooks.org/ebooks/mourning-dove/cogewea-the-half-blood/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/mourning-dove/cogewea-the-half-blood/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "charlotte-m-yonge_the-clever-woman-of-the-family",
+    "title": "The Clever Woman of the Family",
+    "author": "Charlotte M. Yonge",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/charlotte-m-yonge/the-clever-woman-of-the-family",
+    "cover_url": "https://standardebooks.org/ebooks/charlotte-m-yonge/the-clever-woman-of-the-family/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/charlotte-m-yonge/the-clever-woman-of-the-family/downloads/cover-thumbnail.jpg"
   }
 ]
