@@ -13435,5 +13435,68 @@
     "url": "https://standardebooks.org/ebooks/charlotte-m-yonge/the-clever-woman-of-the-family",
     "cover_url": "https://standardebooks.org/ebooks/charlotte-m-yonge/the-clever-woman-of-the-family/downloads/cover.jpg",
     "thumbnail_url": "https://standardebooks.org/ebooks/charlotte-m-yonge/the-clever-woman-of-the-family/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "dorothy-m-richardson_revolving-lights",
+    "title": "Revolving Lights",
+    "author": "Dorothy M. Richardson",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/dorothy-m-richardson/revolving-lights",
+    "cover_url": "https://standardebooks.org/ebooks/dorothy-m-richardson/revolving-lights/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/dorothy-m-richardson/revolving-lights/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "john-donne_poetry",
+    "title": "Poetry",
+    "author": "John Donne",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/john-donne/poetry",
+    "cover_url": "https://standardebooks.org/ebooks/john-donne/poetry/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/john-donne/poetry/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "edgar-saltus_short-fiction",
+    "title": "Short Fiction",
+    "author": "Edgar Saltus",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/edgar-saltus/short-fiction",
+    "cover_url": "https://standardebooks.org/ebooks/edgar-saltus/short-fiction/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/edgar-saltus/short-fiction/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "h-c-mcneile_the-third-round",
+    "title": "The Third Round",
+    "author": "H. C. McNeile",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/h-c-mcneile/the-third-round",
+    "cover_url": "https://standardebooks.org/ebooks/h-c-mcneile/the-third-round/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/h-c-mcneile/the-third-round/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "karel-capek_krakatit_lawrence-hyde",
+    "title": "Krakatit",
+    "author": "Karel Čapek",
+    "translators": "Lawrence Hyde",
+    "url": "https://standardebooks.org/ebooks/karel-capek/krakatit/lawrence-hyde",
+    "cover_url": "https://standardebooks.org/ebooks/karel-capek/krakatit/lawrence-hyde/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/karel-capek/krakatit/lawrence-hyde/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "aristophanes_the-birds_the-athenian-society",
+    "title": "The Birds",
+    "author": "Aristophanes",
+    "translators": "The Athenian Society",
+    "url": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society",
+    "cover_url": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/aristophanes/the-birds/the-athenian-society/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "george-macdonald_if-i-had-a-father",
+    "title": "If I Had a Father",
+    "author": "George MacDonald",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/george-macdonald/if-i-had-a-father",
+    "cover_url": "https://standardebooks.org/ebooks/george-macdonald/if-i-had-a-father/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/george-macdonald/if-i-had-a-father/downloads/cover-thumbnail.jpg"
   }
 ]
