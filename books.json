@@ -13498,5 +13498,77 @@
     "url": "https://standardebooks.org/ebooks/george-macdonald/if-i-had-a-father",
     "cover_url": "https://standardebooks.org/ebooks/george-macdonald/if-i-had-a-father/downloads/cover.jpg",
     "thumbnail_url": "https://standardebooks.org/ebooks/george-macdonald/if-i-had-a-father/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "david-hume_a-treatise-of-human-nature",
+    "title": "A Treatise of Human Nature",
+    "author": "David Hume",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/david-hume/a-treatise-of-human-nature",
+    "cover_url": "https://standardebooks.org/ebooks/david-hume/a-treatise-of-human-nature/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/david-hume/a-treatise-of-human-nature/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "mor-jokai_the-slaves-of-the-padishah_robert-nisbet-bain",
+    "title": "The Slaves of the Padishah",
+    "author": "Mór Jókai",
+    "translators": "Robert Nisbet Bain",
+    "url": "https://standardebooks.org/ebooks/mor-jokai/the-slaves-of-the-padishah/robert-nisbet-bain",
+    "cover_url": "https://standardebooks.org/ebooks/mor-jokai/the-slaves-of-the-padishah/robert-nisbet-bain/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/mor-jokai/the-slaves-of-the-padishah/robert-nisbet-bain/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "marie-belloc-lowndes_the-chink-in-the-armour",
+    "title": "The Chink in the Armour",
+    "author": "Marie Belloc Lowndes",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/marie-belloc-lowndes/the-chink-in-the-armour",
+    "cover_url": "https://standardebooks.org/ebooks/marie-belloc-lowndes/the-chink-in-the-armour/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/marie-belloc-lowndes/the-chink-in-the-armour/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "j-storer-clouston_the-man-from-the-clouds",
+    "title": "The Man from the Clouds",
+    "author": "J. Storer Clouston",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/j-storer-clouston/the-man-from-the-clouds",
+    "cover_url": "https://standardebooks.org/ebooks/j-storer-clouston/the-man-from-the-clouds/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/j-storer-clouston/the-man-from-the-clouds/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "arthur-ransome_racundras-first-cruise",
+    "title": "Racundra’s First Cruise",
+    "author": "Arthur Ransome",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/arthur-ransome/racundras-first-cruise",
+    "cover_url": "https://standardebooks.org/ebooks/arthur-ransome/racundras-first-cruise/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/arthur-ransome/racundras-first-cruise/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "john-meade-falkner_the-lost-stradivarius",
+    "title": "The Lost Stradivarius",
+    "author": "John Meade Falkner",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/john-meade-falkner/the-lost-stradivarius",
+    "cover_url": "https://standardebooks.org/ebooks/john-meade-falkner/the-lost-stradivarius/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/john-meade-falkner/the-lost-stradivarius/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "anna-katharine-green_hand-and-ring",
+    "title": "Hand and Ring",
+    "author": "Anna Katharine Green",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/anna-katharine-green/hand-and-ring",
+    "cover_url": "https://standardebooks.org/ebooks/anna-katharine-green/hand-and-ring/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/anna-katharine-green/hand-and-ring/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "herbert-gorman_the-place-called-dagon",
+    "title": "The Place Called Dagon",
+    "author": "Herbert Gorman",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/herbert-gorman/the-place-called-dagon",
+    "cover_url": "https://standardebooks.org/ebooks/herbert-gorman/the-place-called-dagon/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/herbert-gorman/the-place-called-dagon/downloads/cover-thumbnail.jpg"
   }
 ]
