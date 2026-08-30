@@ -13570,5 +13570,32 @@
     "url": "https://standardebooks.org/ebooks/herbert-gorman/the-place-called-dagon",
     "cover_url": "https://standardebooks.org/ebooks/herbert-gorman/the-place-called-dagon/downloads/cover.jpg",
     "thumbnail_url": "https://standardebooks.org/ebooks/herbert-gorman/the-place-called-dagon/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "jane-c-loudon_the-mummy",
+    "title": "The Mummy!",
+    "author": "Jane C. Loudon",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/jane-c-loudon/the-mummy",
+    "cover_url": "https://standardebooks.org/ebooks/jane-c-loudon/the-mummy/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/jane-c-loudon/the-mummy/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "h-g-wells_the-wheels-of-chance",
+    "title": "The Wheels of Chance",
+    "author": "H. G. Wells",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/h-g-wells/the-wheels-of-chance",
+    "cover_url": "https://standardebooks.org/ebooks/h-g-wells/the-wheels-of-chance/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/h-g-wells/the-wheels-of-chance/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "samuel-taylor-coleridge_robert-southey_the-fall-of-robespierre",
+    "title": "The Fall of Robespierre",
+    "author": "Samuel Taylor Coleridge and Robert Southey",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/samuel-taylor-coleridge_robert-southey/the-fall-of-robespierre",
+    "cover_url": "https://standardebooks.org/ebooks/samuel-taylor-coleridge_robert-southey/the-fall-of-robespierre/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/samuel-taylor-coleridge_robert-southey/the-fall-of-robespierre/downloads/cover-thumbnail.jpg"
   }
 ]
