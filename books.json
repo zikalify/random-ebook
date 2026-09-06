@@ -13597,5 +13597,41 @@
     "url": "https://standardebooks.org/ebooks/samuel-taylor-coleridge_robert-southey/the-fall-of-robespierre",
     "cover_url": "https://standardebooks.org/ebooks/samuel-taylor-coleridge_robert-southey/the-fall-of-robespierre/downloads/cover.jpg",
     "thumbnail_url": "https://standardebooks.org/ebooks/samuel-taylor-coleridge_robert-southey/the-fall-of-robespierre/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "heinrich-kramer_malleus-maleficarum_montague-summers",
+    "title": "Malleus Maleficarum",
+    "author": "Heinrich Kramer",
+    "translators": "Montague Summers",
+    "url": "https://standardebooks.org/ebooks/heinrich-kramer/malleus-maleficarum/montague-summers",
+    "cover_url": "https://standardebooks.org/ebooks/heinrich-kramer/malleus-maleficarum/montague-summers/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/heinrich-kramer/malleus-maleficarum/montague-summers/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "dorothy-m-richardson_the-trap",
+    "title": "The Trap",
+    "author": "Dorothy M. Richardson",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/dorothy-m-richardson/the-trap",
+    "cover_url": "https://standardebooks.org/ebooks/dorothy-m-richardson/the-trap/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/dorothy-m-richardson/the-trap/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "arthur-conan-doyle_brigadier-gerard-stories",
+    "title": "Brigadier Gerard Stories",
+    "author": "Arthur Conan Doyle",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories",
+    "cover_url": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/arthur-conan-doyle/brigadier-gerard-stories/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "theodore-roosevelt_a-book-lovers-holidays-in-the-open",
+    "title": "A Book-Lover’s Holidays in the Open",
+    "author": "Theodore Roosevelt",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/theodore-roosevelt/a-book-lovers-holidays-in-the-open",
+    "cover_url": "https://standardebooks.org/ebooks/theodore-roosevelt/a-book-lovers-holidays-in-the-open/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/theodore-roosevelt/a-book-lovers-holidays-in-the-open/downloads/cover-thumbnail.jpg"
   }
 ]
