@@ -3636,15 +3636,6 @@
     "thumbnail_url": "https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna/downloads/cover-thumbnail.jpg"
   },
   {
-    "id": "thomas-mann_bashan-and-i_herman-george-scheffauer",
-    "title": "Bashan and I",
-    "author": "Thomas Mann",
-    "translators": null,
-    "url": "https://standardebooks.org/ebooks/thomas-mann/bashan-and-i/herman-george-scheffauer",
-    "cover_url": "https://standardebooks.org/ebooks/thomas-mann/bashan-and-i/herman-george-scheffauer/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/thomas-mann/bashan-and-i/herman-george-scheffauer/downloads/cover-thumbnail.jpg"
-  },
-  {
     "id": "james-stephens_irish-fairy-tales",
     "title": "Irish Fairy Tales",
     "author": "James Stephens",
@@ -13633,5 +13624,50 @@
     "url": "https://standardebooks.org/ebooks/theodore-roosevelt/a-book-lovers-holidays-in-the-open",
     "cover_url": "https://standardebooks.org/ebooks/theodore-roosevelt/a-book-lovers-holidays-in-the-open/downloads/cover.jpg",
     "thumbnail_url": "https://standardebooks.org/ebooks/theodore-roosevelt/a-book-lovers-holidays-in-the-open/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "h-c-mcneile_the-final-count",
+    "title": "The Final Count",
+    "author": "H. C. McNeile",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/h-c-mcneile/the-final-count",
+    "cover_url": "https://standardebooks.org/ebooks/h-c-mcneile/the-final-count/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/h-c-mcneile/the-final-count/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "george-macdonald_within-and-without",
+    "title": "Within and Without",
+    "author": "George MacDonald",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/george-macdonald/within-and-without",
+    "cover_url": "https://standardebooks.org/ebooks/george-macdonald/within-and-without/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/george-macdonald/within-and-without/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "c-h-spurgeon_the-art-of-illustration",
+    "title": "The Art of Illustration",
+    "author": "C. H. Spurgeon",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/c-h-spurgeon/the-art-of-illustration",
+    "cover_url": "https://standardebooks.org/ebooks/c-h-spurgeon/the-art-of-illustration/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/c-h-spurgeon/the-art-of-illustration/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "thomas-mann_short-fiction_various-translators",
+    "title": "Short Fiction",
+    "author": "Thomas Mann",
+    "translators": "Kenneth Burke, Herman George Scheffauer, and H. T. Lowe-Porter",
+    "url": "https://standardebooks.org/ebooks/thomas-mann/short-fiction/various-translators",
+    "cover_url": "https://standardebooks.org/ebooks/thomas-mann/short-fiction/various-translators/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/thomas-mann/short-fiction/various-translators/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "edmund-burke_reflections-on-the-revolution-in-france",
+    "title": "Reflections on the Revolution in France",
+    "author": "Edmund Burke",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/edmund-burke/reflections-on-the-revolution-in-france",
+    "cover_url": "https://standardebooks.org/ebooks/edmund-burke/reflections-on-the-revolution-in-france/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/edmund-burke/reflections-on-the-revolution-in-france/downloads/cover-thumbnail.jpg"
   }
 ]
