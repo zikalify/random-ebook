@@ -13678,5 +13678,23 @@
     "url": "https://standardebooks.org/ebooks/gustave-flaubert/sentimental-education/m-walter-dunne",
     "cover_url": "https://standardebooks.org/ebooks/gustave-flaubert/sentimental-education/m-walter-dunne/downloads/cover.jpg",
     "thumbnail_url": "https://standardebooks.org/ebooks/gustave-flaubert/sentimental-education/m-walter-dunne/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "pauline-e-hopkins_contending-forces",
+    "title": "Contending Forces",
+    "author": "Pauline E. Hopkins",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/pauline-e-hopkins/contending-forces",
+    "cover_url": "https://standardebooks.org/ebooks/pauline-e-hopkins/contending-forces/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/pauline-e-hopkins/contending-forces/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "w-h-davies_the-autobiography-of-a-super-tramp",
+    "title": "The Autobiography of a Super-Tramp",
+    "author": "W. H. Davies",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/w-h-davies/the-autobiography-of-a-super-tramp",
+    "cover_url": "https://standardebooks.org/ebooks/w-h-davies/the-autobiography-of-a-super-tramp/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/w-h-davies/the-autobiography-of-a-super-tramp/downloads/cover-thumbnail.jpg"
   }
 ]
