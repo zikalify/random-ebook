@@ -13696,5 +13696,41 @@
     "url": "https://standardebooks.org/ebooks/w-h-davies/the-autobiography-of-a-super-tramp",
     "cover_url": "https://standardebooks.org/ebooks/w-h-davies/the-autobiography-of-a-super-tramp/downloads/cover.jpg",
     "thumbnail_url": "https://standardebooks.org/ebooks/w-h-davies/the-autobiography-of-a-super-tramp/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "winnifred-eaton-reeve_his-royal-nibs",
+    "title": "His Royal Nibs",
+    "author": "Winnifred Eaton Reeve",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/winnifred-eaton-reeve/his-royal-nibs",
+    "cover_url": "https://standardebooks.org/ebooks/winnifred-eaton-reeve/his-royal-nibs/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/winnifred-eaton-reeve/his-royal-nibs/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "henry-seton-merriman_barlasch-of-the-guard",
+    "title": "Barlasch of the Guard",
+    "author": "Henry Seton Merriman",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/henry-seton-merriman/barlasch-of-the-guard",
+    "cover_url": "https://standardebooks.org/ebooks/henry-seton-merriman/barlasch-of-the-guard/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/henry-seton-merriman/barlasch-of-the-guard/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "a-e-w-mason_the-house-of-the-arrow",
+    "title": "The House of the Arrow",
+    "author": "A. E. W. Mason",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-house-of-the-arrow",
+    "cover_url": "https://standardebooks.org/ebooks/a-e-w-mason/the-house-of-the-arrow/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/a-e-w-mason/the-house-of-the-arrow/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "dorothy-m-richardson_oberland",
+    "title": "Oberland",
+    "author": "Dorothy M. Richardson",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/dorothy-m-richardson/oberland",
+    "cover_url": "https://standardebooks.org/ebooks/dorothy-m-richardson/oberland/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/dorothy-m-richardson/oberland/downloads/cover-thumbnail.jpg"
   }
 ]
