@@ -13732,5 +13732,23 @@
     "url": "https://standardebooks.org/ebooks/dorothy-m-richardson/oberland",
     "cover_url": "https://standardebooks.org/ebooks/dorothy-m-richardson/oberland/downloads/cover.jpg",
     "thumbnail_url": "https://standardebooks.org/ebooks/dorothy-m-richardson/oberland/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "gregory-of-nyssa_on-the-making-of-man_william-moore_henry-austin-wilson",
+    "title": "On the Making of Man",
+    "author": "Gregory of Nyssa",
+    "translators": "William Moore and Henry Austin Wilson",
+    "url": "https://standardebooks.org/ebooks/gregory-of-nyssa/on-the-making-of-man/william-moore_henry-austin-wilson",
+    "cover_url": "https://standardebooks.org/ebooks/gregory-of-nyssa/on-the-making-of-man/william-moore_henry-austin-wilson/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/gregory-of-nyssa/on-the-making-of-man/william-moore_henry-austin-wilson/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "ernst-junger_the-storm-of-steel_basil-creighton",
+    "title": "The Storm of Steel",
+    "author": "Ernst Jünger",
+    "translators": "Basil Creighton",
+    "url": "https://standardebooks.org/ebooks/ernst-junger/the-storm-of-steel/basil-creighton",
+    "cover_url": "https://standardebooks.org/ebooks/ernst-junger/the-storm-of-steel/basil-creighton/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/ernst-junger/the-storm-of-steel/basil-creighton/downloads/cover-thumbnail.jpg"
   }
 ]
