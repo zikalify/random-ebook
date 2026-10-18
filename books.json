@@ -13750,5 +13750,50 @@
     "url": "https://standardebooks.org/ebooks/ernst-junger/the-storm-of-steel/basil-creighton",
     "cover_url": "https://standardebooks.org/ebooks/ernst-junger/the-storm-of-steel/basil-creighton/downloads/cover.jpg",
     "thumbnail_url": "https://standardebooks.org/ebooks/ernst-junger/the-storm-of-steel/basil-creighton/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "e-nesbit_beautiful-stories-from-shakespeare",
+    "title": "Beautiful Stories from Shakespeare",
+    "author": "E. Nesbit",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/e-nesbit/beautiful-stories-from-shakespeare",
+    "cover_url": "https://standardebooks.org/ebooks/e-nesbit/beautiful-stories-from-shakespeare/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/e-nesbit/beautiful-stories-from-shakespeare/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "henry-seton-merriman_the-sowers",
+    "title": "The Sowers",
+    "author": "Henry Seton Merriman",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/henry-seton-merriman/the-sowers",
+    "cover_url": "https://standardebooks.org/ebooks/henry-seton-merriman/the-sowers/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/henry-seton-merriman/the-sowers/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "pauline-e-hopkins_of-one-blood",
+    "title": "Of One Blood",
+    "author": "Pauline E. Hopkins",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/pauline-e-hopkins/of-one-blood",
+    "cover_url": "https://standardebooks.org/ebooks/pauline-e-hopkins/of-one-blood/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/pauline-e-hopkins/of-one-blood/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "jules-verne_robur-the-conqueror_sampson-low-marston-searle-rivington",
+    "title": "Robur the Conqueror",
+    "author": "Jules Verne",
+    "translators": "Sampson Low, Marston, Searle, & Rivington",
+    "url": "https://standardebooks.org/ebooks/jules-verne/robur-the-conqueror/sampson-low-marston-searle-rivington",
+    "cover_url": "https://standardebooks.org/ebooks/jules-verne/robur-the-conqueror/sampson-low-marston-searle-rivington/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/jules-verne/robur-the-conqueror/sampson-low-marston-searle-rivington/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "seneca_moral-letters-to-lucilius_richard-m-gummere",
+    "title": "Moral Letters to Lucilius",
+    "author": "Seneca",
+    "translators": "Richard M. Gummere",
+    "url": "https://standardebooks.org/ebooks/seneca/moral-letters-to-lucilius/richard-m-gummere",
+    "cover_url": "https://standardebooks.org/ebooks/seneca/moral-letters-to-lucilius/richard-m-gummere/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/seneca/moral-letters-to-lucilius/richard-m-gummere/downloads/cover-thumbnail.jpg"
   }
 ]
