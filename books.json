@@ -13795,5 +13795,32 @@
     "url": "https://standardebooks.org/ebooks/seneca/moral-letters-to-lucilius/richard-m-gummere",
     "cover_url": "https://standardebooks.org/ebooks/seneca/moral-letters-to-lucilius/richard-m-gummere/downloads/cover.jpg",
     "thumbnail_url": "https://standardebooks.org/ebooks/seneca/moral-letters-to-lucilius/richard-m-gummere/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "herman-whitaker_the-mystery-of-the-barranca",
+    "title": "The Mystery of the Barranca",
+    "author": "Herman Whitaker",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/herman-whitaker/the-mystery-of-the-barranca",
+    "cover_url": "https://standardebooks.org/ebooks/herman-whitaker/the-mystery-of-the-barranca/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/herman-whitaker/the-mystery-of-the-barranca/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "selma-lagerlof_the-emperor-of-portugallia_velma-swanston-howard",
+    "title": "The Emperor of Portugallia",
+    "author": "Selma Lagerlöf",
+    "translators": "Velma Swanston Howard",
+    "url": "https://standardebooks.org/ebooks/selma-lagerlof/the-emperor-of-portugallia/velma-swanston-howard",
+    "cover_url": "https://standardebooks.org/ebooks/selma-lagerlof/the-emperor-of-portugallia/velma-swanston-howard/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/selma-lagerlof/the-emperor-of-portugallia/velma-swanston-howard/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "henry-seton-merriman_suspense",
+    "title": "Suspense",
+    "author": "Henry Seton Merriman",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/henry-seton-merriman/suspense",
+    "cover_url": "https://standardebooks.org/ebooks/henry-seton-merriman/suspense/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/henry-seton-merriman/suspense/downloads/cover-thumbnail.jpg"
   }
 ]
