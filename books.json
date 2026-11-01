@@ -144,15 +144,6 @@
     "thumbnail_url": "https://standardebooks.org/ebooks/jack-london/white-fang/downloads/cover-thumbnail.jpg"
   },
   {
-    "id": "joseph-conrad_heart-of-darkness",
-    "title": "Heart of Darkness",
-    "author": "Joseph Conrad",
-    "translators": null,
-    "url": "https://standardebooks.org/ebooks/joseph-conrad/heart-of-darkness",
-    "cover_url": "https://standardebooks.org/ebooks/joseph-conrad/heart-of-darkness/downloads/cover.jpg",
-    "thumbnail_url": "https://standardebooks.org/ebooks/joseph-conrad/heart-of-darkness/downloads/cover-thumbnail.jpg"
-  },
-  {
     "id": "jules-verne_around-the-world-in-eighty-days_george-makepeace-towle",
     "title": "Around the World In Eighty Days",
     "author": "Jules Verne",
@@ -13822,5 +13813,41 @@
     "url": "https://standardebooks.org/ebooks/henry-seton-merriman/suspense",
     "cover_url": "https://standardebooks.org/ebooks/henry-seton-merriman/suspense/downloads/cover.jpg",
     "thumbnail_url": "https://standardebooks.org/ebooks/henry-seton-merriman/suspense/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "henry-seton-merriman_the-vultures",
+    "title": "The Vultures",
+    "author": "Henry Seton Merriman",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/henry-seton-merriman/the-vultures",
+    "cover_url": "https://standardebooks.org/ebooks/henry-seton-merriman/the-vultures/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/henry-seton-merriman/the-vultures/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "joseph-conrad_short-fiction",
+    "title": "Short Fiction",
+    "author": "Joseph Conrad",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/joseph-conrad/short-fiction",
+    "cover_url": "https://standardebooks.org/ebooks/joseph-conrad/short-fiction/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/joseph-conrad/short-fiction/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "anton-chekhov_ivanov_constance-garnett",
+    "title": "Ivanov",
+    "author": "Anton Chekhov",
+    "translators": "Constance Garnett",
+    "url": "https://standardebooks.org/ebooks/anton-chekhov/ivanov/constance-garnett",
+    "cover_url": "https://standardebooks.org/ebooks/anton-chekhov/ivanov/constance-garnett/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/anton-chekhov/ivanov/constance-garnett/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "john-buchan_short-fiction",
+    "title": "Short Fiction",
+    "author": "John Buchan",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/john-buchan/short-fiction",
+    "cover_url": "https://standardebooks.org/ebooks/john-buchan/short-fiction/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/john-buchan/short-fiction/downloads/cover-thumbnail.jpg"
   }
 ]
