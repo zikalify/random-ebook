@@ -13849,5 +13849,32 @@
     "url": "https://standardebooks.org/ebooks/john-buchan/short-fiction",
     "cover_url": "https://standardebooks.org/ebooks/john-buchan/short-fiction/downloads/cover.jpg",
     "thumbnail_url": "https://standardebooks.org/ebooks/john-buchan/short-fiction/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "a-e-w-mason_the-prisoner-in-the-opal",
+    "title": "The Prisoner in the Opal",
+    "author": "A. E. W. Mason",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/a-e-w-mason/the-prisoner-in-the-opal",
+    "cover_url": "https://standardebooks.org/ebooks/a-e-w-mason/the-prisoner-in-the-opal/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/a-e-w-mason/the-prisoner-in-the-opal/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "fergus-hume_the-green-mummy",
+    "title": "The Green Mummy",
+    "author": "Fergus Hume",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/fergus-hume/the-green-mummy",
+    "cover_url": "https://standardebooks.org/ebooks/fergus-hume/the-green-mummy/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/fergus-hume/the-green-mummy/downloads/cover-thumbnail.jpg"
+  },
+  {
+    "id": "carolyn-wells_the-gold-bag",
+    "title": "The Gold Bag",
+    "author": "Carolyn Wells",
+    "translators": null,
+    "url": "https://standardebooks.org/ebooks/carolyn-wells/the-gold-bag",
+    "cover_url": "https://standardebooks.org/ebooks/carolyn-wells/the-gold-bag/downloads/cover.jpg",
+    "thumbnail_url": "https://standardebooks.org/ebooks/carolyn-wells/the-gold-bag/downloads/cover-thumbnail.jpg"
   }
 ]
